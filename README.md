@@ -1,0 +1,2 @@
+# lataminventario
+Recuento Inventario Latam
